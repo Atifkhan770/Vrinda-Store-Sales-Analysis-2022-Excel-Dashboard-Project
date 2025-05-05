@@ -1,6 +1,6 @@
 # Vrinda-Store-Sales-Analysis-2022-Excel-Dashboard-Project
 
-📊 Project Overview
+Project Overview
 This project focuses on analyzing the annual sales data of Vrinda Store for the year 2022. The primary goal is to help Vrinda understand their customers better and identify opportunities to improve sales in 2023.
 
 
@@ -14,19 +14,19 @@ Create an annual sales report for 2022 to understand their customer behavior and
 ❓ Key Business Questions Addressed
 📈 Compare the sales and orders using a single chart
 
-🗓 Which month had the highest sales and orders?
+1.Which month had the highest sales and orders?
 
-🧑‍🤝‍🧑 Who purchased more – men or women?
+2.Who purchased more – men or women?
 
-🚚 What were the different order statuses in 2022?
+3.What were the different order statuses in 2022?
 
-🌍 Which are the top 10 states contributing to sales?
+4.Which are the top 10 states contributing to sales?
 
-👥 Relationship between age and gender based on number of orders
+5.Relationship between age and gender based on number of orders
 
-📦 Which sales channel contributed the most?
+6.Which sales channel contributed the most?
 
-🛍 What was the highest selling category?
+7.What was the highest selling category?
 
 
 🧹 Key Tasks Performed
